@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println("Alumnos en este proyecto:" +
                 "1. Alan" +
-                "2." +
+                "2. Franco" +
                 "3." +
                 "4." +
                 "5.");
