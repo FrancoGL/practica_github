@@ -7,3 +7,4 @@ Participantes:
 3. Franco
 4. cesar m
 5- cualquier cosa
+6 -Maximo Solis
