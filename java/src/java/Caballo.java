@@ -10,5 +10,10 @@ package java;
  * @author MAXIMO SOLIS <MAXIMO at your.org>
  */
 public class Caballo {
-          
+
+    public Caballo() {
+        System.out.println("Clase creada por Maximo");
+    }
+    
+     
 }
